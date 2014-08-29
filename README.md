@@ -18,7 +18,7 @@ You need copy `Document` folder of Flava app from your iOS device. I do it with 
 2. Open iTools.
 3. Choose `Apps` tab.
 4. Find Flava, click on the Document icon opposite app icon.
-5. In Dialog that appear select `Document` folder and click `Export`.
+5. In dialog that appear select `Document` folder and click `Export`.
 
 ## Import entries to Day One
 
@@ -30,7 +30,8 @@ You need copy `Document` folder of Flava app from your iOS device. I do it with 
 6. Run import script: `$ php flava.php`
 7. Wait until script done and say something like that: 
 
-``` Complete!
+```
+Complete!
 Exported: 103 notes and 3 photos 
 ```
 Congratulation! Use Day One.
